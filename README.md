@@ -1,1 +1,2 @@
-# EasyPythonCalculator
+EasyPythonCalculator
+by LagDev
